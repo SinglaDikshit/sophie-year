@@ -3,14 +3,17 @@
 ## Hackathon Proposal for ELCIA Tech Summit 2025
 
 ### 1. Team Details
-**Team Name:** VitalSense AI  
-**Institution:** [Your Institution]  
+**Team Name:** Hardweared 
+**Institution:** IIT Bombay
 **Team Members:**  
-- [Your Name] - Team Lead & AI/ML Developer  
-- [Member 2] - Hardware Integration Specialist  
-- [Member 3] - Software & Testing Engineer  
+- Dikshit Singla - Team Lead
+- dikshit131105@gmail.com
+- Ravindra Naga - Hardware Integration Specialist
+- email
+- Ankur Gupta - Software & Testing Engineer
+- email
 
-**Contact:** [Your contact details]
+**Contact:** 8699300395
 
 ### 2. Project Title
 **Pulse Track: AI-Enhanced Multi-Modal Vitals Monitoring System with Edge Intelligence**
@@ -110,48 +113,6 @@ Our solution addresses the critical need for continuous, accurate, and intellige
 - **Motion Compensation:** AI-driven artifact removal using IMU data correlation
 - **Context Awareness:** Activity recognition to adjust measurement sensitivity
 - **Health Scoring:** Multi-parameter risk assessment algorithms
-
-### 11. Future Development Roadmap
-
-**Phase 1 (Hackathon - 3 days):**
-- Hardware prototype assembly and basic sensor integration
-- Core AI algorithms implementation (heart rate detection, basic anomaly detection)
-- Real-time display and basic data logging functionality
-
-**Phase 2 (1-3 months post-hackathon):**
-- Advanced AI model training with larger datasets
-- Cloud connectivity and mobile app development
-- Enhanced motion artifact reduction algorithms
-- Clinical validation studies
-
-**Phase 3 (3-6 months):**
-- Integration with Indian sensor components
-- Regulatory compliance preparation (FDA/CE marking pathway)
-- Manufacturing design optimization
-- Clinical trial preparation
-
-**Phase 4 (6-12 months):**
-- Commercial prototype development
-- Healthcare provider partnerships
-- Telehealth platform integration
-- Market launch preparation
-
-### 12. Innovation Impact
-
-**Technical Innovation:**
-- First-of-its-kind edge AI implementation for vitals monitoring under ₹4000
-- Novel sensor fusion algorithms specifically designed for wearable applications
-- Adaptive learning systems for personalized health monitoring
-
-**Healthcare Impact:**
-- Enables continuous monitoring for cardiovascular patients at home
-- Reduces hospital readmission rates through early warning systems
-- Provides affordable healthcare monitoring for underserved populations
-
-**Economic Impact:**
-- Cost-effective alternative to expensive medical monitoring devices
-- Supports India's healthcare digitization initiatives
-- Creates opportunities for local sensor manufacturing ecosystem
 
 ### 13. Declaration
 
