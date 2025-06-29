@@ -120,10 +120,3 @@ We understand and agree to comply with cost constraints (under ₹4,000), TRL-8 
 
 **Signatures:**
 [Team Member Signatures]
-
----
-
-**Contact Information:**
-Email: [email]  
-Phone: [phone]  
-Institution: [institution address]
